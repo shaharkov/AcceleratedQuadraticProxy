@@ -1,7 +1,7 @@
 Accelerated Quadratic Proxy for Geometric Optimization
 ====
 
-A Matlab implementation of the paper ["Accelerated Quadratic Proxy for Geometric Optimization"](http://www.wisdom.weizmann.ac.il/~shaharko/AcceleratedQuadraticProxy.html).
+A Matlab implementation of the paper ["Accelerated Quadratic Proxy for Geometric Optimization"](https://shaharkov.github.io/AcceleratedQuadraticProxy.html).
 
 ----
 The class `OptimSolverAcclQuadProx.m` implements the accelerated quadratic proxy optimization algorithm described in the paper for the minimization of geometric energies.
@@ -15,4 +15,4 @@ This package includes a few examples:
 
 **Disclaimer:**
 The code is provided as-is for academic use only and without any guarantees. Please contact the authors to report any bugs. 
-Written by [Shahar Kovalsky](http://www.wisdom.weizmann.ac.il/~shaharko/) and [Meirav Galun](http://www.wisdom.weizmann.ac.il/~/meirav/).
+Written by [Shahar Kovalsky](https://shaharkov.github.io/) and [Meirav Galun](http://www.wisdom.weizmann.ac.il/~/meirav/).
